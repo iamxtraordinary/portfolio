@@ -1,0 +1,191 @@
+body{
+    background-color: #f7f7f7;
+}
+
+.head h1{
+
+
+position: absolute;
+width: 1300px;
+height: 250px;
+left: 150px;
+top: 50px; 
+text-align: center;
+font-family: 'Lexend';
+font-style: normal;
+font-weight: 600;
+font-size: 200px;
+/* line-height: 250px; */
+/* identical to box height */
+
+color: #378893;
+
+
+}
+
+.head h2{
+    position: absolute;
+width: 1300px;
+height: 250px;
+left: 130px;
+top: 350px; 
+text-align: center;
+font-family: 'Lexend';
+font-style: normal;
+font-weight: 600;
+font-size: 100px;
+/* line-height: 250px; */
+/* identical to box height */
+
+color: #378893;
+}
+
+
+.subhead h2{
+    position: absolute;
+    top: 725px; ;
+    color: #378893;
+    text-align: center;
+    font-family: 'Lexend';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 70px;
+    font-weight: bold;
+    left: 170px;
+    
+
+}
+
+
+.picture img{
+    position: absolute;
+    width: 300px;
+    height: 400x;
+    top: 880px;
+    left: 165px;
+
+}
+
+
+#first{
+    position: absolute;
+    top: 890px;
+    left: 100px;
+}
+
+#second{
+    position: absolute;
+    top: 910px;
+    left: 470px;
+}
+
+#third{
+    position: absolute;
+    top: 1310px;
+    left: 110px;
+}
+
+#fourth{
+    position: absolute;
+    top: 1110px;
+    left: 470px;
+}
+
+.me{
+    position: absolute;
+    top: 880px;
+    left: 490px;
+}
+
+.me h3{
+    color: #006678;
+    font-family: 'lexend';
+    font-weight: bold;
+    font-size: 100px;
+
+
+
+}
+
+.me p{
+
+position: absolute;
+width: 866px;
+height: 736px;
+top: 200px;
+
+font-family: 'Lexend';
+font-style: normal;
+font-weight: 400;
+font-size: 32px;
+line-height: 46px;
+/* or 144% */
+letter-spacing: 0.006em;
+
+color: #69A6AE;
+
+
+}
+
+.box2 p{
+    position: absolute;
+    left: 90%;
+    top: 0%;
+}
+
+
+.scroll p{
+    position: absolute;
+    top: 625px; ;
+    color: grey;
+    text-align: center;
+    font-family: 'Lexend';
+    font-style: normal;
+    font-weight: 10;
+    font-size: 20px;
+    font-weight: bold;
+    left: 690px;
+    
+}
+
+.scroll2 p{
+    position: absolute;
+    top: 1750px; ;
+    color: grey;
+    text-align: center;
+    font-family: 'Lexend';
+    font-style: normal;
+    font-weight: 10;
+    font-size: 20px;
+    font-weight: bold;
+    left: 690px;
+    
+}
+.scroll br{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+}
+
+
+.graphic p{
+    position: absolute;
+    top: 1850px;
+    color: #378893;
+    text-align: center;
+    font-family: 'Lexend';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 70px;
+    font-weight: bold;
+    left: 170px;
+}
+
+
+.logos img{
+    position: absolute;
+    width: 579px;
+    height: 258px;
+    top: 2000px;
+    margin-left: 10%;
+    margin-top: 5%;
+    padding-bottom: 100px;
+}
